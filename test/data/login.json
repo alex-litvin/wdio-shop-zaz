@@ -1,0 +1,34 @@
+{
+   "valid": {
+      "lastname": "Fillow",
+      "firstname": "Fill",
+      "middlename": "Fillowich",
+      "phone": "+380501234566",
+      "email": "fill5@i.ua",
+      "password": "secret"
+   },
+   "missingRequiredField": {
+      "lastname": "",
+      "firstname": "Fill",
+      "middlename": "Fillowich",
+      "phone": "+380501234078",
+      "email": "fill078@i.ua",
+      "password": "secret"
+   },
+   "shortpassword": {
+      "lastname": "Fillow",
+      "firstname": "Fill",
+      "middlename": "Fillowich",
+      "phone": "+380501230071",
+      "email": "fill0071@i.ua",
+      "password": "aaaa"
+   },
+   "invalid_email": {
+      "lastname": "Fillow",
+      "firstname": "Fill",
+      "middlename": "Fillowich",
+      "phone": "+380500234562",
+      "email": "fill062.i",
+      "password": "aaaaa"
+   }
+}
